@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anujinho
-- 👀 I’m interested in replicating human intelligence in machines using mathematics and compute. 
+- 👀 I’m interested in replicating intelligence in machines using mathematics and compute. 
      Specifically, in Self-Supervised and Few-Shot Learning.
 - 🌱 I’m currently working at Shell and TU Delft.
 - 📫 You can reach me at anujrsingh1@gmail.com
