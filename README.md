@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anujinho
 - 👀 I’m interested in exploring the concept of intelligence by embedding it in machines using mathematics and compute. 
-     More specifically, my research interests include building Causally aware Embodied Agents, Generative Modelling, Self-Supervised Representation Learning and Meta Learning.
+     More specifically, my research interests include building Causally and Socially aware Agents, Generative Modelling, Self-Supervised Representation Learning and Meta Learning.
 - 🌱 I’m currently working as a PhD candidate at TU Delft.
 - 🌱 Previously worked as an AI Research Scientist at Shell and a Guest Researcher at TU Delft.
 - 📫 You can reach me at anujrsingh1@gmail.com, a.r.singh@tudelft.nl.
